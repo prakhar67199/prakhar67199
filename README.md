@@ -1,3 +1,4 @@
+![logo](https://github.com/prakhar67199/prakhar67199/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Prakhar Chandra Gupta</h1>
 <h3 align="center">A passionate Full Stack MERN Developer from India</h3>
 <img align="right" alt="coding"width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
