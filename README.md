@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)]
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40theSDEshow%2Fbecoming-a-full-stack-developer-from-scratch-in-2020-9718dd4a2616&psig=AOvVaw02EO0OZucgIQXZRXDmkqvN&ust=1674584654350000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNii-42o3vwCFQAAAAAdAAAAABAJ)]
 <h1 align="center">Hi 👋, I'm Prakhar Chandra Gupta</h1>
 <h3 align="center">A passionate Full Stack MERN Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flgope%2Flgope&psig=AOvVaw00UNL8dVhrUPwfL8P7rrRW&ust=1674584321612000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOC7vO-m3vwCFQAAAAAdAAAAABAZ">
